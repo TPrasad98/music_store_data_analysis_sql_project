@@ -94,7 +94,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]()
+![MusicDatabaseSchema](https://github.com/TPrasad98/music_store_data_analysis_sql_project/blob/main/MusicDatabaseSchema.png)
 
 ## Special Thanks
 
